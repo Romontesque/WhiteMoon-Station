@@ -10545,6 +10545,8 @@
 #include "modular_zzz\modules\new_icons\utility\bomb_suit.dm"
 #include "modular_zzz\modules\noose\code.dm"
 #include "modular_zzz\modules\now_we_can_jump\code.dm"
+#include "modular_zzz\modules\sec_uniform\code\vend.dm"
+#include "modular_zzz\modules\sec_uniform\code\w_suit.dm"
 #include "modular_zzz\modules\spiderbuff\giant_spiders.dm"
 #include "modular_zzz\modules\spiderbuff\spider_ability.dm"
 #include "modular_zzz\modules\spiderbuff\spidersecondstage_subtypes.dm"
